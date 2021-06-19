@@ -70,7 +70,7 @@
         android:id="@+id/result"
         android:layout_width="321dp"
         android:layout_height="202dp"
-        android:background="@drawable/back"
+        android:textColor="@color/design_default_color_primary"
         android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
